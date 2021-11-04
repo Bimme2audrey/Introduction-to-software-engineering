@@ -1,0 +1,20 @@
+
+a) For a complex real-time system, it would require a lot of up-front  analysis before implementation. And certainly, needs a plan- driven approach to developtment with the requirements carefully analysed. A waterfall model is therefore the most appropriate approach to use, perhaps with formal transformations between the different stages.
+
+b) Systems such as a local library website with a complex user interface but with vague requirements, an incremental developtment approach is the most appropriate as the system requirements are likely to change as real user experience with the system is gained. 
+
+c) For an order processing system whole requirements are vague and unlikely to change, prototyping is an appropriate model since users are actively involved in the developtment of the business system.
+
+2)   Waterfall Model
+                  It is also known as linear sequential model. The model suggests a systematic sequential to software developtment that begins at the system level and progresses through analysis, design, coding, testing and support. 
+In this model, each phase must be completed fully before the next can begin.
+
+STRENGTHS OF THE WATERFALL MODEL 
+-Simple to understand and use
+-Easy to manage due to the rigidity of the model. That is, each phase has specific deliverable and review process 
+-Works well for smaller projects where requirements are very well understood.
+
+WEAKNESSES OF WATERFALL MODEL 
+-Once an application is in the testing stage, it is very difficult to go back and change something, which wasn't well thought out in the design phase.
+-No working software is produced until late during the life cycle.
+- High amount of risk and uncertainty.
